@@ -1,0 +1,13 @@
+
+**************************************************************
+SCHOOL DATABASE INFO:
+
+************************************************
+COURSES:
+Course: cmp-167 | Number of Credits: 04 | Graduate
+Course: cmp-168 | Number of Credits: 04 | Undergraduate
+Course: pol-230 | Number of Credits: 03 | Graduate
+************************************************
+************************************************
+FACULTY:
+
